@@ -1,6 +1,6 @@
 #pragma once
 #include "types.h"
-
+#include <array>
 namespace panorama
 {
     //Menu UI Root - "CSGOMainMenu"
